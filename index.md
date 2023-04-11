@@ -6,3 +6,5 @@ layout: home
 ---
 
 My first Jekyll page. Edited online in GitHub.
+
+And edited via Smartphone.
