@@ -5,4 +5,4 @@
 layout: home
 ---
 
-My first Jekyll page.
+My first Jekyll page. Edited online in GitHub.
