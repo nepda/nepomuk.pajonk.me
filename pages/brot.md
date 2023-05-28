@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Fünf Minuten Brot
+permalink: brot
 ---
 
 Brot 🍞: 500g (Dinkel(vollkorn))Mehl, 500ml lauwarmes Wasser, 1 Würfel Frischhefe, 2EL Essig, 2TL Salz und 150g Körner.
