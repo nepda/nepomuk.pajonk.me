@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Polizei
-permalink: polizei
+permalink: polizeigewalt
 ---
 
 * Einzelfälle
