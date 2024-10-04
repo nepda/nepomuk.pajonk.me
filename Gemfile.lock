@@ -85,5 +85,8 @@ DEPENDENCIES
   minima (~> 2.5)
   webrick
 
+RUBY VERSION
+   ruby 3.2.3p157
+
 BUNDLED WITH
    2.4.11
