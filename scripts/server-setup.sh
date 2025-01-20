@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Install it with:
-# sh -c "$(curl -fsSL https://raw.githubusercontent.com/nepda/nepomuk.me/main/scripts/server-setup.sh)"
+# sh -c "$(curl -fsSL https://raw.githubusercontent.com/nepda/nepomuk.pajonk.me/main/scripts/server-setup.sh)"
 
 sudo apt install zsh
 

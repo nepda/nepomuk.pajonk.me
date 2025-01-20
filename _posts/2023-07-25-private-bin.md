@@ -7,4 +7,4 @@ title: Private PrivateBin instance
 
 I've installed an instance of [PrivateBin](https://privatebin.info/).
 
-You can find it here: [bin.nepomuk.me](https://bin.nepomuk.me/).
+You can find it here: [bin.pajonk.me](https://bin.pajonk.me/).
