@@ -2,8 +2,10 @@
 layout: post
 title: "TIL: OpenAPI - Value expected to be 'array', but 'array' given."
 tags:
-  - php
   - openapi
+  - php
+  - software
+  - til
 ---
 
 # OpenAPI - Value expected to be 'array', but 'array' given.
